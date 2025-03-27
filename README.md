@@ -5,4 +5,4 @@ I highly recommend to look through the code (it's very simple) and customize the
 ```jsx
 <AudioPlayer audioPath="/fromthestart.mp3" title="Laufey - From the Start">
 ```
-Made by [Nabeel_Sadiq](https://github.com/nabeel-sadiq).
+Made by [Nabeel Sadiq](https://github.com/nabeel-sadiq).
